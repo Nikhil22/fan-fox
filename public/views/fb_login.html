@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<html>
+  <head>
+  </head>
+
+  <body>
+
+    <form name = 'apiForm' id = 'apiForm' action = '/index' method = 'post'>
+      <input type='hidden' id = 'jsonInput' name='userPosts'>
+      <button type = 'submit' name='submitBtn' id='submitBtn'></button>
+    <form>
+
+    <fb:login-button scope="public_profile,email, user_posts" onlogin="checkLoginState();">
+    </fb:login-button>
+
+    <script src = "js/jquery-1.12.0.min.js"></script>
+    <script src = "js/test-algos-in-browser.js"></script>
+    <script src = "js/fb-magic.js"></script>
+  </body>
+
+<html>

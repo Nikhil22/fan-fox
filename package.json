@@ -1,0 +1,18 @@
+{
+  "name": "fanix",
+  "version": "1.0.0",
+  "description": "Get the friends who most like your posts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nikhil Bhaskar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "sync-request": "^3.0.0",
+    "whatwg-fetch": "^0.11.0"
+  }
+}
