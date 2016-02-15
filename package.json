@@ -11,8 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.14.2",
-    "express": "^4.13.4",
-    "sync-request": "^3.0.0",
-    "whatwg-fetch": "^0.11.0"
+    "express": "^4.13.4"
   }
 }
