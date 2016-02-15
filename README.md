@@ -21,8 +21,6 @@
 <li>Load more content as user scrolls down</li>
 </ol>
 
-<br>
-
 <h5>These are the 2 main improvements I can think of. If you can think of more (surely, there are more improvements to be made), don't hesitate to add 'em to this list & contribute your code :) </h5>
 
 <h2>How to use</h2>
