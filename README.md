@@ -33,7 +33,7 @@
   <li>Important! Make sure you have a Facebook App ID. <br> If you don't, visit https://developers.facebook.com.</li> <br>
 
   <li>
-  Once you have your App ID, head over to public/js/fb-magic.js <br>
+  Once you have your App ID, head over to <strong>public/js/fbLogin.js</strong> <br>
 
   Modify the following piece of code: <br> <br>
 
