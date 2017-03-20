@@ -9,11 +9,15 @@
 
 <h2>Desktop</h2>
 <i>Actual names not displayed here for confidentiality ~ But you'll see the names when you run this app :)</i>
-![alt tag](https://github.com/Nikhil22/fan-fox/blob/master/public/img/desktop.png)
+<p>
+  <img src="https://github.com/Nikhil22/fan-fox/blob/master/public/img/desktop.png">
+</p>
 
 <h2>Mobile</h2>
 <i>Actual names not displayed here for confidentiality ~ But you'll see the names when you run this app :)</i>
-![alt tag](https://github.com/Nikhil22/fan-fox/blob/master/public/img/mobile.png)
+<p>
+  <img src="https://github.com/Nikhil22/fan-fox/blob/master/public/img/mobile.png">
+</p>
 
 <h2>Things that can be improved</h2>
 <ol>
